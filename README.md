@@ -81,9 +81,9 @@ awesome-ai/
 
 ## 🌐 在线访问
 
-### 方式一：GitHub Pages（推荐）
+### 方式一：在线访问（推荐）
 
-访问：`xxx`
+访问：[https://awesome-ai-eight.vercel.app](https://awesome-ai-eight.vercel.app)
 
 ### 方式二：本地运行
 
